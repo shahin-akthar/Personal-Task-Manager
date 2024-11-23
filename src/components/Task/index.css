@@ -1,0 +1,43 @@
+.tasks-list{
+ background-color: white;
+ padding: 10px;
+ border-radius: 5px;
+ margin: 10px;
+ box-shadow: 10px 10px 10px #949292;
+ width: 250px;
+}
+
+.heading-section{
+ display: flex;
+ justify-content: space-between;
+}
+
+.task-head{
+ font-size: 25px;
+}
+
+.category{
+ font-size: 15px;
+ font-weight: 800;
+}
+
+.description{
+ font-size: 16px;
+ font-weight: 600;
+ padding-left: 10px;
+ padding-top: 5px;
+}
+
+.edit-section{
+ display: flex;
+ justify-content: space-between;
+ margin-top: 10px;
+ font-size: 15px;
+ font-weight: 800;
+ cursor: pointer;
+}
+
+.div-section{
+ display: flex;
+ font-size: 17px;
+}
